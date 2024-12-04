@@ -121,7 +121,7 @@ We welcome contributions to make **BugBounty-Hunter** even better. Feel free to:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Mozilla Public License 2.0]
 
 ## ❤️ Acknowledgments
 

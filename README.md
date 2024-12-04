@@ -135,6 +135,4 @@ Happy Bug Hunting! 🐛🎯
 
 ---
 
-### **Next Steps**
-1. Replace `your-username` with your actual GitHub username if you're uploading this to a repository.
-2. Let me know if you'd like help setting up the repository or additional sections for the README! 🚀
+
